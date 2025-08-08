@@ -41,6 +41,11 @@
 
 
 </div>
+<h2> Contact me @:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talex01/)
+
+[![EMail](https://img.shields.io/badge/eMail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.alex01@hotmail.com)
 
 <!--
 **talex-01/talex-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
